@@ -1,0 +1,161 @@
+
+*{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    height: 86px;
+    background-color: #3b5998;
+}
+.logo {
+    position: relative;
+    font-size: 39px;
+    padding-left: 20px;
+    padding-top: 4px;
+    margin-left: 130px;
+    font-weight: 700;
+    color: white;
+    top: 22px;
+}
+.forgot{
+    text-decoration: none;
+    color: white;
+    font-size: 11px;
+    margin-left: 50px;
+}
+.login {
+    position: absolute;
+    top: -4px;
+    right: 30px;
+    font-size: 19px;
+    font-weight: 200;
+    letter-spacing: 1px; 
+}
+
+.login input {
+    padding: 3px;
+    margin-left: 10px;
+}
+.login button {
+    background-color: #29487d;
+    color: white;
+    width: 90px;
+    height: 35px;
+    border: 1px solid #365899;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    
+}
+.login button:hover{
+    background-color: #4267b2;
+}
+.content {
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 508px;
+}
+.left-section {
+    margin-top: 120px;
+    margin-left: 150px;
+}
+.left-section p {
+    color: #29487d;
+    font-size: 25px;
+    font-weight: 700;
+}
+.img1{
+    margin-top: 55px;
+}
+.right-section {
+    position: absolute;
+    right: 200px;
+    top: 120px;
+}
+.right-section p{
+    color: black;
+}
+.right-section h1 {
+    font-size: 30px;
+    color: #29487d;
+    font-weight: 700;
+}
+.right-section h2{
+    font-size: 23px;
+    color: #29487d;
+    font-weight: 500;
+    padding-top: 10px;
+}
+.right-form{
+    position: relative;
+    padding-top: 30px;
+}
+.inpu1{
+    font-size: 17px;
+    height: 31px;
+    width: 190px;
+    padding: 4px;
+    padding-left: 10px;
+}
+.inpu2{
+    font-size: 17px;
+    height: 31px;
+    width: 400px;
+    margin-top: 10px;
+    padding: 4px;
+    padding-left: 10px;
+    
+}
+.inpu3{
+    margin-top: 28px;
+    width: 20px;
+    font-size: 18px;   
+}
+.inpu4{
+    position: absolute;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.inpu5{
+    margin-top: 28px;
+    width: 70px;
+    height: 32px;
+    font-size: 15px;  
+    padding: 3px; 
+}
+.right-form a{
+    font-size: 14px;
+    color: #29487d; 
+    text-decoration: none;  
+}
+
+.right-form p{
+    margin-top: 12px;
+    font-size: 12px;
+}
+.right-form button {
+    margin-top: 17px;
+    width: 170px;
+    height: 40px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    border-radius: 8px;
+    background-color: #00a400;
+    border: 1px solid #42b72a;
+    color: white;
+    font-weight: 700;
+}
+.right-form button:hover{
+    background-color: green;
+}
+hr{
+    margin-top: 20px;
+    height: 1px;
+    color: gray;
+    background-color: gray;
+}
+.right-section h4{
+    margin-top: 10px;
+    color: rgb(83, 77, 77);
+}
